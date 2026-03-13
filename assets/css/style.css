@@ -88,10 +88,11 @@ main .orange,
 .foto img {
   width: 21%;
   height: 300px;
-  padding: 24px;
-  padding-top: 5px;
+  margin: 24px;
+  margin-top: 5px;
   text-align: center;
-  border-radius: 40px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.562);
 }
 h3 {
   margin-top: 2px;
