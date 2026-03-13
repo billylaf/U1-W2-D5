@@ -1,0 +1,130 @@
+/* Your styles here */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+  margin: 0.5em 0;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+p {
+  font-size: 1.2em;
+  margin: 1.65px 0;
+}
+body {
+  width: 100%;
+  margin: 0;
+  background-color: #e9edee;
+  font-family: "Poppins", sans-serif;
+}
+header img {
+  width: 150px;
+  padding-left: 20px;
+  height: 50px;
+}
+header div {
+  background-color: #222f3f;
+  width: 100%;
+}
+header .button {
+  background-color: #354857;
+  width: 100%;
+  padding: 5px;
+  padding-left: 10px;
+}
+header a {
+  background-color: #354857;
+  color: white;
+  border: none;
+  padding-left: 10px;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+main {
+  padding: 30px;
+}
+main .orange,
+.orange a {
+  background-color: #f56600;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+
+.banner {
+  margin-top: 30px;
+  text-align: center;
+  color: white;
+  background-image: url(../images/bg-image.png);
+  background-size: 95%;
+  height: 250px;
+}
+.banner div {
+  padding-top: 80px;
+}
+.shop {
+  color: #2e8cd3;
+  font-weight: bold;
+}
+.foto {
+  text-align: center;
+}
+.foto img {
+  width: 21%;
+  height: 300px;
+  padding: 24px;
+  padding-top: 5px;
+  text-align: center;
+  border-radius: 40px;
+}
+h3 {
+  margin-top: 2px;
+  display: inline-block;
+}
+.photo-header {
+  padding-left: 24px;
+}
+.photo-section {
+  padding-top: 10px;
+  margin-top: 30px;
+  background-color: white;
+}
+.big-img {
+  width: 100%;
+}
+.full-img {
+  margin-top: 20px;
+  text-align: center;
+}
+footer div,
+footer a {
+  background-color: #354857;
+  text-align: center;
+  color: white;
+  padding: 5px;
+  text-decoration: underline;
+}
+.last-logo {
+  padding: 50px;
+  background-color: #222f3f;
+}
+footer img {
+  width: 150px;
+  height: 50px;
+}
